@@ -7,7 +7,7 @@ Tested only in Matlab 2019a
 Download the Research_Atlases folder to get the AAL3 and Harvard_Oxford atlases. See the Atlas_Regions.xls file
 for details about what numbers are associated with which regions in each atlas.
 
-# atlas_edit.m
+# atlas_roi.m
 
 Input atlas_roi in the command window to run. This allows you to obtain regions of interest anatomical brain atlas. 
 You must know the number of the regions you wish to remove from or include in a new brain file or set of brain files.  
